@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="com.mostlyepic.secondary-icon"
-      version="0.0.4">
+           id="com.is-just-me.ehero-audios"
+      version="0.0.1">
 
-    <name>SecondaryIconPlugin</name>
-    <description>Secondary Icon Plugin for Phonegap Build applications</description>
+    <name>Sonidos para e-hero</name>
+    <description>Sonidos</description>
     <license>MIT</license>
     <keywords>cordova,pgb,phonegap,build,icon,res</keywords>
-    <repo>https://github.com/kentmw/secondary-icon.git</repo>
+    <repo>https://github.com/is-just-me/ehero-audios.git</repo>
 
     <engines>
       <engine name="cordova" version=">=3.0.0" />
@@ -16,11 +16,6 @@
 
     <!-- android -->
     <platform name="android">
-        <!--  drawable src/android/resources -->
-        <resource-file src="src/android/res/drawable-hdpi/secondary_icon.png" target="res/drawable-hdpi/secondary_icon.png" />
-        <resource-file src="src/android/res/drawable-mdpi/secondary_icon.png" target="res/drawable-mdpi/secondary_icon.png" />
-        <resource-file src="src/android/res/drawable-xhdpi/secondary_icon.png" target="res/drawable-xhdpi/secondary_icon.png" />
-        <resource-file src="src/android/res/drawable-xxhdpi/secondary_icon.png" target="res/drawable-xxhdpi/secondary_icon.png" />
-
+        <resource-file src="src/android/res/raw/1.mp3" target="res/raw/1.mp3" />
     </platform>
 </plugin>

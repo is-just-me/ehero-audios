@@ -1,0 +1,33 @@
+{
+  "name": "is-just-me-ehero-audios",
+  "version": "0.0.1",
+  "description": "is-just-me-ehero-audios",
+  "cordova": {
+    "id": "is-just-me-ehero-audios",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/is-just-me/ehero-audios.git"
+  },
+  "keywords": [
+    "cordova",
+    "keyboard",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "jroure",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/is-just-me/ehero-audios/issues"
+  },
+  "homepage": "https://github.com/is-just-me/ehero-audios#readme"
+}
