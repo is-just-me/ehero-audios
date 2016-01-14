@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
            id="com.is-just-me.ehero-audios"
-      version="0.0.1">
+      version="0.0.2">
 
     <name>Sonidos para e-hero</name>
     <description>Sonidos</description>
@@ -16,6 +16,6 @@
 
     <!-- android -->
     <platform name="android">
-        <resource-file src="src/android/res/raw/1.mp3" target="res/raw/1.mp3" />
+        <resource-file src="src/android/res/raw/a1.mp3" target="res/raw/a1.mp3" />
     </platform>
 </plugin>
