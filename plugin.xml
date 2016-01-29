@@ -16,6 +16,6 @@
 
     <!-- android -->
     <platform name="android">
-        <resource-file src="src/android/res/raw/a1.wav" target="res/raw/a1.wav" />
+        <resource-file src="src/android/res/raw/sound.wav" target="res/raw/sound.wav" />
     </platform>
 </plugin>
